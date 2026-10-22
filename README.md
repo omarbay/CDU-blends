@@ -77,7 +77,7 @@ If you use this repository in your research, please cite the associated publicat
 
 Ansar, T., Ashraf, W. M., Alshehri, A. S., & Bayomie, O. *Two-Stage Residual Learning for Modelling Strength-Informed Optimisation of Thermal Systems*. International Journal of Energy Research.
 
-Add the publication year, volume, issue, page numbers, and DOI once these details are available.
+We will add the publication year, volume, issue, page numbers, and DOI once these details are available.
 
 ## License
 
