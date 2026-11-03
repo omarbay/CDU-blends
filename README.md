@@ -1,7 +1,5 @@
 # CDU-blends
 
-## Written by Chat
-
 # Two-Stage Residual Learning for Modelling Strength-Informed Optimisation of Thermal Systems
 
 ## Overview
